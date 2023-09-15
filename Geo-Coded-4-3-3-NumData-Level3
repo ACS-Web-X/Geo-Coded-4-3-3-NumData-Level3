@@ -6,7 +6,7 @@ Base_URL_SPAN; = *1-64*65-128*129-192;
 Base_URL_PROTOCOL; = +BP*NIG-PPP*SWI+PPP*VAN;
 Default_L/D; = PMP/LtR;
 Default_S_F; = NP-N-N;
-BIG_DATA_TYPE; = PURE_NUMERIC; 
+Big_Data_TYPE; = Pure_Numeric; 
 CONTENT; = #;
 OUTPUT; = #;
 </x>
