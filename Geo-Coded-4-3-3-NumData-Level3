@@ -3,10 +3,11 @@ INITIALIZE x-Internet = 128+/-:13;
 Base_URL; = +f1-m13+v22;
 Base_URL_TYPE; = TRIO_COMPLEX;
 Base_URL_SPAN; = *1-64*65-128*129-192;
-Base_URL_PROTOCOL; = +BP*NIG-PPP*SWI+PPP*VAN;
+Base_URL_PROTOCOL; = +(!BP)*NIG-PPP*SWI+PPP*VAN;
 Default_L/D; = PMP/LtR;
-Default_S_F; = NP-N-N;
-Big_Data_TYPE; = Pure_Numeric; 
+Default_NuMove; = OTZ;
+Default_S_F; = (!BP)-B-N;
+Big_Data_TYPE; = Numeric; 
 CONTENT; = #;
 OUTPUT; = #;
 </x>
